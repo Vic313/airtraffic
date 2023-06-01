@@ -11,11 +11,6 @@ The repository includes the following elements:
 
 Inside the airtraffic folder, go in the src folder to access the application (app.py)
 
-[Code Files]: The source code files for the application are located in the code directory.
-[Data File]: The dataset used by the application is available in the data directory.
-[Requirements File]: The requirements.txt file lists the necessary Python packages and their versions required to run the application.
-Usage
-
 To use the application, follow these steps:
 
 * Clone the repository to your local machine:
